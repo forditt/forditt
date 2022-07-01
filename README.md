@@ -1,2 +1,2 @@
 - 🤔 Hi, I’m @forditt.
-- 📄 My Discord: forditt#0503
+
