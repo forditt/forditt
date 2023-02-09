@@ -3,6 +3,8 @@ I’m forditt! |･ω･)
 ### minecraft servers developer
 
 ### find me:
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/forditt)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/454702483122552832/)
 
-[![Telegram](https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/forditt) 
-[![Discord](https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/users/454702483122552832/)
+### my minecraft server (uk-lang):
+[![Totems SMP](https://img.shields.io/badge/Totems_SMP-1e1e1e?style=for-the-badge&logo=Serverless&logoColor=white)](https://discord.gg/qPsSYXzDbA)
